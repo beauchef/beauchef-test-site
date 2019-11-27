@@ -19,7 +19,7 @@ function ATRK() {
 	this.tagVersion = '1'; // The version of the tag created
 	this.currentBranch = 'N/A'; // The SVN Branch Name
 	this.currentVersion = 'N/A'; // The SVN Version
-	this.beaconDomain = 'localhost.acquisio.com:3000/common/js'; // Where to pull the 1x1 gif from
+	this.beaconDomain = 'beauchef-test-site.herokuapp.com/common/js'; // Where to pull the 1x1 gif from
 	this.clientKey = 'BD79D54F'; // The client key
 	this.ttdAdvertiserId = '';
 	this.phoneMappings={"514-555-2345":"514-000-2345","(555) 555-2222":"(555) 000-2222","(555) 555-3333":"(555) 000-3333","(555) 555-5555":"(555) 000-5555","(555) 555-4444":"(555) 000-4444","5141234567":"4505555555","(555) 555-1111":"(555) 000-1111"};// DO NOT REFORMAT! - The mapping of real phone numbers to tracking phone numbers.
