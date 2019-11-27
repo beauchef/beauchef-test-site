@@ -1,4 +1,3 @@
-zzzzz
 // vim:set ts=4 sw=4 et ai:
 function ATRK() {
 	// The logger function needs to remain on one line and at the top
